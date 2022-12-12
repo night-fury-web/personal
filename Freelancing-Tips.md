@@ -19,6 +19,7 @@
 
 ### Tips
 
+-	Friday is important and don't underestimate it for a job application.
 -	When someone is asking how much time will it takes.
 I know the idea of an open-ended bill is uncomfortable; how about I work on this for 1 to 2 hours, then update you on my progress. We can repeat or pause as needed, you’re in control
 -	Not charging too little, or too much
