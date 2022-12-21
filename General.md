@@ -38,3 +38,4 @@
 ### Github
 
 - Enable "Include private contributions on my profile" in settings
+- Force push on same branch will overwrite previous commits
