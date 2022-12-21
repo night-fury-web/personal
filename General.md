@@ -34,3 +34,7 @@
 ### Podcasts
 - https://stackoverflow.blog/podcast/ 
 - https://corecursive.com 
+
+### Github
+
+- Enable "Include private contributions on my profile" in settings
