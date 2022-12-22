@@ -44,3 +44,8 @@
 
 - Enable "Include private contributions on my profile" in settings
 - Force push on same branch will overwrite previous commits
+
+### How to get free books
+
+- Search book on http://libgen.rs/ and download the latest
+- Example (two scoops of django, The Road To Learn React, you don't know js, etc)
