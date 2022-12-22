@@ -4,6 +4,11 @@
 - https://github.com/kamranahmedse/developer-roadmap 
 - https://www.youtube.com/c/theroadmap/videos 
 
+### Latest Trends
+
+- React (https://react.statuscode.com/issues)
+- Python (https://pycoders.com/issues) 
+
 ### Programmers should know
 
 - https://github.com/mtdvio/every-programmer-should-know 
