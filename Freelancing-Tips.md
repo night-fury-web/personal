@@ -19,6 +19,9 @@
 
 ### Tips
 
+- 3 years ago freelancer.com was fairly good for me. It's good for beginners and sometimes for professionals as well. Just use proper filter on job board and one day you'll win good job. If time allows, I may try it as well next year.
+- Good start it is. Don't miss any job post if it falls on your interested field. Though it's good to apply asap, it's fine to apply later when you see the post. Sometimes I spare total 4 hours a day to read all the past jobs from my last check.
+- Nov and Dec will be a little slow, but prepare well for Jan which may have lots of opportunity. So improve skills during the slow period.
 -	Friday is important and don't underestimate it for a job application.
 -	When someone is asking how much time will it takes.
 I know the idea of an open-ended bill is uncomfortable; how about I work on this for 1 to 2 hours, then update you on my progress. We can repeat or pause as needed, you’re in control
