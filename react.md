@@ -10,3 +10,5 @@
 - Create distribution on cloudfront
 - Issue HTTPS certificate and add custom domain for cloudflare
 - Voila!
+
+Will try to transfer by today or tomorrow.
