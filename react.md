@@ -11,4 +11,4 @@
 - Issue HTTPS certificate and add custom domain for cloudflare
 - Voila!
 
-Will try to fill .2 by today or tomorrow.
+Filled .2 a few mins ago. Confirm please.
