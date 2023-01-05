@@ -11,4 +11,3 @@
 - Issue HTTPS certificate and add custom domain for cloudflare
 - Voila!
 
-Filled .2 a few mins ago. Confirm please.
