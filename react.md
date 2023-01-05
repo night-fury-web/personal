@@ -11,3 +11,7 @@
 - Issue HTTPS certificate and add custom domain for cloudflare
 - Voila!
 
+##### How to make new year site
+
+- There are several site that can host frontend. Such as netlify, heroku, vercel, etc. S3 bucket with cloudfront.
+- Happy new year! Hope all wishes come true and great success in carrier. Also really hope to be together very soon.
