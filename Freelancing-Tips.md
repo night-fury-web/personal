@@ -19,6 +19,8 @@
 
 ### Tips
 
+- Don't use all programming languages in cover letter. At the beginning use about 3 languages and a few fields that shows your skill. It's fine to add experiences in multiple services such as AWS Lambda, S3, EC2, etc. But fields and programming languages should be around 3 to 5. It shows your major skill and most of people don't believe freelancers who can do all things. Based on this, improve portfolio and cover letters by checking other well-going profiles. Important: Don't copy at all.
+- Another strategy is that if you are really confident and eager to work on the job, update coverletter before applying.
 - 3 years ago freelancer.com was fairly good for me. It's good for beginners and sometimes for professionals as well. Just use proper filter on job board and one day you'll win good job. If time allows, I may try it as well next year.
 - Good start it is. Don't miss any job post if it falls on your interested field. Though it's good to apply asap, it's fine to apply later when you see the post. Sometimes I spare total 4 hours a day to read all the past jobs from my last check.
 - Nov and Dec will be a little slow, but prepare well for Jan which may have lots of opportunity. So improve skills during the slow period.
