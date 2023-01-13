@@ -19,11 +19,12 @@
 
 ### Tips
 
+- Since there are a lot of jobs, it's good to apply proper filters not to spend too much hours for checking jobs. And do not miss a single job by checking job from the point you checked last time. Using this method, you can check the jobs while you're away and other competitors might be away at that time as well. So you have better chance to win the job among small number of competitors.
 - Fixed job is also fine. In case you have bad review, just apply some small fixed jobs to overcome bad review. When you have a few ongoing jobs, it's time to increase hourly rate. One of my long term job was small fixed job at the beginning. Never give up. Some of my colleagues had also difficult time for over a few months. Just keep calm and do your best.
 - Don't use all programming languages in cover letter. At the beginning use about 3 languages and a few fields that shows your skill. It's fine to add experiences in multiple services such as AWS Lambda, S3, EC2, etc. But fields and programming languages should be around 3 to 5. It shows your major skill and most of people don't believe freelancers who can do all things. Based on this, improve portfolio and cover letters by checking other well-going profiles. Important: Don't copy at all.
 - Another strategy is that if you are really confident and eager to work on the job, update coverletter before applying.
 - Be careful not to get detected by AI system. Get tips from colleagues.
-- 3 years ago freelancer.com was fairly good for me. It's good for beginners and sometimes for professionals as well. Just use proper filter on job board and one day you'll win good job. If time allows, I may try it as well next year.
+- 3 years ago freelancer.com was fairly good for me. It's good for beginners and sometimes for professionals as well. Just use proper filter on job board and one day you'll win good job. If time allows, I may try it as well next year. The platform is also good as you can bid without concerning connect count.
 - Good start it is. Don't miss any job post if it falls on your interested field. Though it's good to apply asap, it's fine to apply later when you see the post. Sometimes I spare total 4 hours a day to read all the past jobs from my last check.
 - Nov and Dec will be a little slow, but prepare well for Jan which may have lots of opportunity. So improve skills during the slow period.
 -	Friday is important and don't underestimate it for a job application.
