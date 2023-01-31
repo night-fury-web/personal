@@ -19,6 +19,8 @@
 
 ### Tips
 
+- I am not sure if it's good to spend time to earn github badges and make contribution heatmap awesome(average heatmap is fine). In my experience, the less the client is concerned about github history, the easier the working with the client is. I guess the people concerned about your github will check the contribution on open source projects.
+If you contribute to open source projects including raising issues, you'll get some organization contributions.
 - Since there are a lot of jobs, it's good to apply proper filters not to spend too much hours for checking jobs. And do not miss a single job by checking job from the point you checked last time. Using this method, you can check the jobs while you're away and other competitors might be away at that time as well. So you have better chance to win the job among small number of competitors.
 - Fixed job is also fine. In case you have bad review, just apply some small fixed jobs to overcome bad review. When you have a few ongoing jobs, it's time to increase hourly rate. One of my long term job was small fixed job at the beginning. Never give up. Some of my colleagues had also difficult time for over a few months. Just keep calm and do your best.
 - Not sure if there is someone wants to get updated on my tips. :)
