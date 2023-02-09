@@ -19,6 +19,9 @@
 
 ### Tips
 
+- When I had no task to do, I studied most of day with little effort in cultivating my development experience. But it was wrong. Even though the project or task is very small, you will learn a lot and increase efficiency while working on it. So it's better to work on small jobs as well even it's worth of tens of bucks.
+In freelancing world, reputation and feedbacks are important. Using online and offline time efficiently and creating a good daily plan are key for one's success.
+Want to use https://www.guru.com/ maximgavrilyuk?
 - I am not sure if it's good to spend time to earn github badges and make contribution heatmap awesome(average heatmap is fine). In my experience, the less the client is concerned about github history, the easier the working with the client is. I guess the people concerned about your github will check the contribution on open source projects.
 If you contribute to open source projects including raising issues, you'll get some organization contributions.
 - Since there are a lot of jobs, it's good to apply proper filters not to spend too much hours for checking jobs. And do not miss a single job by checking job from the point you checked last time. Using this method, you can check the jobs while you're away and other competitors might be away at that time as well. So you have better chance to win the job among small number of competitors.
